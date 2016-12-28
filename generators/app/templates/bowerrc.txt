@@ -1,0 +1,20 @@
+{
+  "cwd": "./",
+  "directory": "bower_components",
+  "save": true,
+  "save-exact": true,
+  "storage": {
+    "packages" : "~/.bower/packages",
+    "links" : "~/.bower/links"
+  },
+  "scripts": {
+    "preuninstall": ""
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
